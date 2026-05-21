@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==2.2.1
+scipy==1.12.0
+matplotlib==3.8.3
+QuantLib==1.33
+pandas-datareader==0.10.0
